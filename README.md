@@ -6,7 +6,7 @@ This project classifies 10 breeds of dogs and cats using deep learning and trans
 
 Before beginning, please read review the following files:
 - [`CS3Hook.pdf`](https://github.com/McMeans/ds-4002-cs3/blob/main/CS3Hook.pdf): One-page overview of the project
-- [`CS3Rubric.pdf`](https://github.com/McMeans/ds-4002-cs3/CS3Rubric.pdf): Submission guidelines and evaluation rubric
+- [`CS3Rubric.pdf`](https://github.com/McMeans/ds-4002-cs3/blob/main/CS3Rubric.pdf): Submission guidelines and evaluation rubric
 
 
 ## Remaining Documentation
