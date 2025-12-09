@@ -1,6 +1,6 @@
 # Distracted Driver Case Study
 
-This project classifies 10 breeds of dogs and cats using deep learning and transfer learning. It uses the Distracted Driving Dataset and applies a fine-tuned ResNet-50 model for high-accuracy breed identification.
+This project utilizes a Multilayer Perceptron (MLP) model to classify images of drivers, describing them as partaking in either 'safe' or 'distracted' driving. In instances of distracted driving, there is further classification of the distracting action.
 
 ## Context
 
